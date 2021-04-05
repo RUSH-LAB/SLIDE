@@ -1,6 +1,6 @@
 [submodule "SLIDE_opt_ia"]
 	path = SLIDE_opt_ia
-	url = https://github.com/uyongw/SLIDE_opt_ia
+	url = https://github.com/IntelLabs/SLIDE_opt_ia
 [submodule "HashingDeepLearning"]
 	path = HashingDeepLearning
 	url = https://github.com/keroro824/HashingDeepLearning
