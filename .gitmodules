@@ -4,3 +4,6 @@
 [submodule "HashingDeepLearning"]
 	path = HashingDeepLearning
 	url = https://github.com/keroro824/HashingDeepLearning
+[submodule "NegativeSampling"]
+	path = NegativeSampling
+	url = https://github.com/RUSH-LAB/NegativeSampling
